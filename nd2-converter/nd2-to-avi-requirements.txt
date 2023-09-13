@@ -1,0 +1,5 @@
+1. nd2reader and opencv-python require installation prior to running the nd2-to-avi.py script. See commands below to install:
+
+conda install -c conda-forge nd2reader
+
+pip install opencv-python
